@@ -1,0 +1,89 @@
+html,body{
+    width: 100%;
+    height: 100%;
+    margin: 0px;
+}
+*{
+    box-sizing: border-box;
+}
+.background{
+    height: 100%;
+    background-image: url(../image/01.png);
+    background-size: cover;
+    background-attachment: fixed;
+}
+.image1{
+    height: 100%;
+    background-image: url(../image/02.png);
+    background-size: cover;
+    background-attachment: fixed;
+}
+.image2{
+    height: 100%;
+    background-image: url(../image/03.png);
+    background-size: cover;
+    background-attachment: fixed;
+}
+.image3{
+    height: 100%;
+    background-image: url(../image/04.png);
+    background-size: cover;
+    background-attachment: fixed;
+}
+.image4{
+    height: 100%;
+    background-image: url(../image/05.png);
+    background-size: cover;
+    background-attachment: fixed;
+}
+.image5{
+    height: 100%;
+    background-image: url(../image/06.png);
+    background-size: cover;
+    background-attachment: fixed;
+}
+.image6{
+    height: 100%;
+    background-image: url(../image/07.png);
+    background-size: cover;
+    background-attachment: fixed;
+}
+.image7{
+    height: 100%;
+    background-image: url(../image/08.png);
+    background-size: cover;
+    background-attachment: fixed;
+}
+.image8{
+    height: 100%;
+    background-image: url(../image/09.png);
+    background-size: cover;
+    background-attachment: fixed;
+}
+.image9{
+    height: 100%;
+    background-image: url(../image/10.png);
+    background-size: cover;
+    background-attachment: fixed;
+}
+.image10{
+    height: 100%;
+    background-image: url(../image/11.png);
+    background-size: cover;
+    background-attachment: fixed;
+}.image11{
+    height: 100%;
+    background-image: url(../image/12.png);
+    background-size: cover;
+    background-attachment: fixed;
+}.image12{
+    height: 100%;
+    background-image: url(../image/13.png);
+    background-size: cover;
+    background-attachment: fixed;
+}.image13{
+    height: 100%;
+    background-image: url(../image/14.png);
+    background-size: cover;
+    background-attachment: fixed;
+}
